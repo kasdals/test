@@ -4,3 +4,4 @@ payload:
   - +.worldofwarships.asia.com
   - +.korabli.su.com
   - +.xboxlive.com.com
+  - +.v2ex.com
