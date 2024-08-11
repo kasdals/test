@@ -1,4 +1,5 @@
 payload:
+  - 'asia.wargaming.net'
   - '+.wargaming.net.com'
   - '+.worldofwarships.eu.com'
   - '+.worldofwarships.asia.com'
