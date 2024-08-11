@@ -1,1 +1,8 @@
-
+payload:
+  - DOMAIN-SUFFIX,vortex.worldofwarships.asia,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,xboxlive.com,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,korabli.su,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,worldofwarships.asia,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,worldofwarships.eu,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,wargaming.net,🇸🇬 狮城节点
+  - IP-CIDR,92.223.0.0/16,🇸🇬 狮城节点
