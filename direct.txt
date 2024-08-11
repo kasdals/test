@@ -10,4 +10,3 @@ payload:
   - DOMAIN-SUFFIX,dl-korabli-s3.lesta.ru
   - DOMAIN-SUFFIX,wows-numbers.com
   - DOMAIN-SUFFIX,shinoaki.com
-  - IP-CIDR,43.155.60.190/24
