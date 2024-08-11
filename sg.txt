@@ -1,5 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,wargaming.net,🇸🇬 狮城节点
+  - +.wargaming.net
+  - +.xn--zfr164b
   - '+.wargaming.net.com'
   - '+.worldofwarships.eu.com'
   - '+.worldofwarships.asia.com'
