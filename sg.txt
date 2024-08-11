@@ -1,8 +1,6 @@
 payload:
   - +.wargaming.net
-  - +.xn--zfr164b
-  - '+.wargaming.net.com'
-  - '+.worldofwarships.eu.com'
-  - '+.worldofwarships.asia.com'
-  - '+.korabli.su.com'
-  - '+.xboxlive.com.com'
+  - +.worldofwarships.eu
+  - +.worldofwarships.asia.com
+  - +.korabli.su.com
+  - +.xboxlive.com.com
