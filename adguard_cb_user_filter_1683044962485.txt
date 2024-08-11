@@ -1,1 +1,19 @@
-
+  - DOMAIN-SUFFIX,lds.lesta.ru,DIRECT
+  - DOMAIN-SUFFIX,vortex.worldofwarships.asia,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,xvcf1.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,xvcf2.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,assets1.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,assets2.xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,xboxlive.com,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,korabli.su,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,dl-wows-gc.wargaming.net,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,dl-wows-cdx.wargaming.net,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,worldofwarships.asia,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,worldofwarships.eu,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,wows-coral.com,DIRECT
+  - DOMAIN-SUFFIX,wargaming.net,🇸🇬 狮城节点
+  - DOMAIN-SUFFIX,dl-korabli-s3.lesta.ru,DIRECT
+  - DOMAIN-SUFFIX,wows-numbers.com,DIRECT
+  - DOMAIN-SUFFIX,shinoaki.com,DIRECT
+  - IP-CIDR,92.223.0.0/16,🇸🇬 狮城节点
+  - IP-CIDR,43.155.60.190/24,DIRECT
