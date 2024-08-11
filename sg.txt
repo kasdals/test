@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,vortex.worldofwarships.asia
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,korabli.su
   - DOMAIN-SUFFIX,worldofwarships.asia
