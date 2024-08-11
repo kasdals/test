@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,korabli.su
-  - DOMAIN-SUFFIX,worldofwarships.asia
-  - DOMAIN-SUFFIX,worldofwarships.eu
-  - DOMAIN-SUFFIX,wargaming.net
+  - '+.wargaming.net.com'
+  - '+.worldofwarships.eu.com'
+  - '+.worldofwarships.asia.com'
+  - '+.korabli.su.com'
+  - '+.xboxlive.com.com'
