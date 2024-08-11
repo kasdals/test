@@ -1,12 +1,12 @@
 payload:
-  - DOMAIN-SUFFIX,lds.lesta.ru
-  - DOMAIN-SUFFIX,xvcf1.xboxlive.com
-  - DOMAIN-SUFFIX,xvcf2.xboxlive.com
-  - DOMAIN-SUFFIX,assets1.xboxlive.com
-  - DOMAIN-SUFFIX,assets2.xboxlive.com
-  - DOMAIN-SUFFIX,dl-wows-gc.wargaming.net
-  - DOMAIN-SUFFIX,dl-wows-cdx.wargaming.net
-  - DOMAIN-SUFFIX,wows-coral.com
-  - DOMAIN-SUFFIX,dl-korabli-s3.lesta.ru
-  - DOMAIN-SUFFIX,wows-numbers.com
-  - DOMAIN-SUFFIX,shinoaki.com
+  - +.lds.lesta.ru
+  - +.xvcf1.xboxlive.com
+  - +.xvcf2.xboxlive.com
+  - +.assets1.xboxlive.com
+  - +.assets2.xboxlive.com
+  - +.dl-wows-gc.wargaming.net
+  - +.dl-wows-cdx.wargaming.net
+  - +.wows-coral.com
+  - +.dl-korabli-s3.lesta.ru
+  - +.wows-numbers.com
+  - +.shinoaki.com
