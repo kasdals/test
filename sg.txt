@@ -1,7 +1,7 @@
 payload:
+  - +.xboxlive.com
   - +.wargaming.net
   - +.worldofwarships.eu
   - +.worldofwarships.asia
   - +.korabli.su
-  - +.xboxlive.com
   - +.v2ex.com
