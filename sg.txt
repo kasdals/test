@@ -5,7 +5,7 @@ payload:
   - +.worldofwarships.asia
   - +.korabli.su
   - +.v2ex.com
-
+  - +.yeshafast.top
 
   - +.img-prod-cms-rt-microsoft-com.akamaized.net
   - +.login.live.com
