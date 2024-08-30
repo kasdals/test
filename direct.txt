@@ -4,7 +4,7 @@ payload:
   - +.xvcf2.xboxlive.com
   - +.assets1.xboxlive.com
   - +.assets2.xboxlive.com
-  - +.yeshafast.top
+
   - +.wows-coral.com
   - +.dl-korabli-s3.lesta.ru
   - +.wows-numbers.com
