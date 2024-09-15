@@ -8,3 +8,4 @@ payload:
   - +.dl-korabli-s3.lesta.ru
   - +.wows-numbers.com
   - +.shinoaki.com
+  - +.steamcontent.com
