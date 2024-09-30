@@ -39,7 +39,7 @@ payload:
   - +.xboxab.net
   - +.xboxgamepass.com
   - +.xboxgamestudios.com
-  - +.xboxlive.cn
+
   - +.xboxlive.com
   - +.xboxone.co
   - +.xboxone.com
