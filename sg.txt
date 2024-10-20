@@ -1,16 +1,7 @@
-{
-  "version": 1,
-  "rules": [
-    {
-      "domain": [],
-      "domain_suffix": [
-        "xboxlive.com",
-        "wargaming.net",
-        "worldofwarships.eu",
-        "worldofwarships.asia",
-        "korabli.su",
-        "v2ex.com"
-      ]
-    }
-  ]
-}
+payload:
+  - +.xboxlive.com
+  - +.wargaming.net
+  - +.worldofwarships.eu
+  - +.worldofwarships.asia
+  - +.korabli.su
+  - +.v2ex.com
