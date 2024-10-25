@@ -1,6 +1,7 @@
 payload:
   - +.lds.lesta.ru
 
+  - +.dl-wows-gc.wargaming.net
   - +.dl-wows-cdx.wargaming.net
   - +.assets2.xboxlive.com
   - +.assets1.xboxlive.com
