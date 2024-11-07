@@ -1,7 +1,7 @@
 payload:
   - +.lds.lesta.ru
 
-
+  - +.getgrass.io
   - +.bigdatacloud.net
   - +.wynd.network
   - +.dl-wows-gc.wargaming.net
