@@ -2,10 +2,7 @@ payload:
   - +.lds.lesta.ru
 
 
-  - +.story51.com
-  - +.getgrass.io
-  - +.bigdatacloud.net
-  - +.wynd.network
+
   - +.dl-wows-gc.wargaming.net
   - +.dl-wows-cdx.wargaming.net
   - +.assets2.xboxlive.com
