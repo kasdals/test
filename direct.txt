@@ -1,6 +1,6 @@
 payload:
   - +.lds.lesta.ru
-
+  - +.story51.com
   - +.getgrass.io
   - +.bigdatacloud.net
   - +.wynd.network
