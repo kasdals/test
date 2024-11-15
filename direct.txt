@@ -2,7 +2,7 @@ payload:
   - +.lds.lesta.ru
 
 
-
+  - +.cdn.gaijin.net
   - +.dl-wows-gc.wargaming.net
   - +.dl-wows-cdx.wargaming.net
   - +.assets2.xboxlive.com
