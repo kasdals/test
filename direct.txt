@@ -1,7 +1,7 @@
 payload:
   - +.lds.lesta.ru
 
-
+  - +.todesk.com
   - +.cdn.gaijin.net
   - +.dl-wows-gc.wargaming.net
   - +.dl-wows-cdx.wargaming.net
