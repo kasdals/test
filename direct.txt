@@ -1,6 +1,6 @@
 payload:
   - +.lds.lesta.ru
-
+  - +.sunrisecontent.akamaized.net
   - +.todesk.com
   - +.cdn.gaijin.net
   - +.dl-wows-gc.wargaming.net
