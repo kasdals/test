@@ -16,7 +16,7 @@ payload:
   - +.wows-numbers.com
   - +.shinoaki.com
   - +.steamcontent.com
-
+  - +.lastwargame.com
   - +.assets1.xboxlive.cn
   - +.assets2.xboxlive.cn
   - +.d1.xboxlive.cn
