@@ -6,3 +6,4 @@ payload:
   - +.korabli.su
   - +.v2ex.com
   - +.dl.google.com
+  - +.lesta.ru
