@@ -1,2 +1,5 @@
 payload:
   - +.chatgpt.com
+  - +.short.weixin.qq.com
+  - +.extshort.weixin.qq.com
+  - +.dns.weixin.qq.com
