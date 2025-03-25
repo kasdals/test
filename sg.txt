@@ -7,3 +7,4 @@ payload:
   - +.v2ex.com
   - +.dl.google.com
   - +.lesta.ru
+  - +.ipleak.net
