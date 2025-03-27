@@ -1,5 +1,6 @@
 payload:
   - +.lds.lesta.ru
+  - +.origin-a.akamaihd.net
   - +.sunrisecontent.akamaized.net
   - +.todesk.com
   - +.cdn.gaijin.net
