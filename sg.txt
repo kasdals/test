@@ -8,3 +8,4 @@ payload:
   - +.dl.google.com
   - +.lesta.ru
   - +.ipleak.net
+  - +.comicat.org
