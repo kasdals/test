@@ -1,10 +1,10 @@
 payload:
-  - +.xboxlive.com
-  - +.wargaming.net
-  - +.worldofwarships.eu
-  - +.worldofwarships.asia
-  - +.korabli.su
-  - +.v2ex.com
-  - +.dl.google.com
-  - +.lesta.ru
-  - +.ipleak.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,wargaming.net
+  - DOMAIN-SUFFIX,worldofwarships.eu
+  - DOMAIN-SUFFIX,worldofwarships.asia
+  - DOMAIN-SUFFIX,korabli.su
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,lesta.ru
+  - DOMAIN-SUFFIX,ipleak.net
