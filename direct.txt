@@ -1,6 +1,4 @@
 payload:
-  # > letv
-  - DOMAIN-SUFFIX,api.mob.app.letv.com
   - DOMAIN-SUFFIX,lds.lesta.ru
   - DOMAIN-SUFFIX,origin-a.akamaihd.net
   - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
