@@ -26,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,dlassets2.xboxlive.cn	
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,test-ipv6.com
