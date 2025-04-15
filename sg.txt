@@ -8,4 +8,3 @@ payload:
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,lesta.ru
   - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,xfltd.me
