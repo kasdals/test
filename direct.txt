@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,capoonetwork.com
+  - DOMAIN-keyword,xfltd
