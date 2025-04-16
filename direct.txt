@@ -28,4 +28,4 @@ payload:
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,capoonetwork.com
-
+  - IP-CIDR,43.155.60.0/24
