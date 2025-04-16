@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,lesta.ru
   - DOMAIN-SUFFIX,ipleak.net
+  - IP-CIDR,92.223.0.0/16
