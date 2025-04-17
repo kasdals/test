@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,origin-a.akamaihd.net
   - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
   - DOMAIN-SUFFIX,todesk.com
+  - DOMAIN-KEYWORD,xfltd
   - DOMAIN-SUFFIX,cdn.gaijin.net
   - DOMAIN-SUFFIX,dl-wows-gc.wargaming.net
   - DOMAIN-SUFFIX,dl-wows-cdx.wargaming.net
