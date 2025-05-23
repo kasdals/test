@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,capoonetwork.com
   - IP-CIDR,43.155.60.0/24
   - IP-CIDR,85.249.160.11/32
+  - IP-CIDR,client.wmpvp.com
