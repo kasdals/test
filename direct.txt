@@ -25,10 +25,10 @@ payload:
   - DOMAIN-SUFFIX,d2.xboxlive.cn
   - DOMAIN-SUFFIX,dlassets.xboxlive.cn
   - DOMAIN-SUFFIX,dlassets2.xboxlive.cn	
+  - IP-CIDR,client.wmpvp.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,capoonetwork.com
   - IP-CIDR,43.155.60.0/24
   - IP-CIDR,85.249.160.11/32
-  - IP-CIDR,client.wmpvp.com
