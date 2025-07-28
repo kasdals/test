@@ -9,4 +9,5 @@ payload:
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,lesta.ru
   - DOMAIN-SUFFIX,ouonetwork.com
+  - DOMAIN-SUFFIX,oochat.space
   - IP-CIDR,92.223.0.0/16
