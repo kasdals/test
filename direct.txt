@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,wows-coral.com
   - DOMAIN-SUFFIX,dl-korabli-s3.lesta.ru
   - DOMAIN-SUFFIX,wows-numbers.com
-
+  - DOMAIN-SUFFIX,shinoaki.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,lastwargame.com
   - DOMAIN-SUFFIX,assets1.xboxlive.cn
