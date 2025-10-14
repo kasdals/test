@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,worldofwarships.asia
   - DOMAIN-SUFFIX,korabli.su
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,gigabyte.com
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN-SUFFIX,dl.google.com
   - DOMAIN-SUFFIX,lesta.ru
