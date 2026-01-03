@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,lds.lesta.ru
+  - DOMAIN-SUFFIX,gaijin.net
+  - DOMAIN-SUFFIX,warthunder.com
   - DOMAIN-SUFFIX,origin-a.akamaihd.net
   - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
   - DOMAIN-SUFFIX,todesk.com
