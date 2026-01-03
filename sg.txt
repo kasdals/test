@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,gaijin.net
+  - DOMAIN-SUFFIX,warthunder.com
   - DOMAIN-SUFFIX,wargaming.net
   - DOMAIN-SUFFIX,worldofwarships.eu
   - DOMAIN-SUFFIX,worldofwarships.asia
