@@ -32,5 +32,6 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,capoonetwork.com
   - IP-CIDR,43.155.60.0/24
+  - IP-CIDR,193.17.0.0/24
   - IP-CIDR,85.249.160.11/32
   - DOMAIN-SUFFIX,wmpvp.com
