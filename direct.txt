@@ -7,7 +7,7 @@ payload:
   - DOMAIN,sunrisecontent.akamaized.net
   - DOMAIN-SUFFIX,todesk.com
   - DOMAIN-KEYWORD,xfltd
-  - DOMAINdl-cw-gc.wargaming.net
+  - DOMAIN,dl-cw-gc.wargaming.net
   - DOMAIN,dl-wows-gc.wargaming.net
   - DOMAIN,dl-wows-cdx.wargaming.net
   - DOMAIN,dl-korabli-s3.lesta.ru
