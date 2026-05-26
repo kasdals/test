@@ -1,35 +1,35 @@
 payload:
-  - DOMAIN-SUFFIX,lds.lesta.ru
+  - DOMAIN,lds.lesta.ru
   - DOMAIN-SUFFIX,dogfight360.com
   - DOMAIN-SUFFIX,gaijin.net
   - DOMAIN-SUFFIX,warthunder.com
-  - DOMAIN-SUFFIX,origin-a.akamaihd.net
-  - DOMAIN-SUFFIX,sunrisecontent.akamaized.net
+  - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,sunrisecontent.akamaized.net
   - DOMAIN-SUFFIX,todesk.com
   - DOMAIN-KEYWORD,xfltd
-  - DOMAIN-SUFFIX,dl-wows-gc.wargaming.net
-  - DOMAIN-SUFFIX,dl-wows-cdx.wargaming.net
-  - DOMAIN-SUFFIX,assets2.xboxlive.com
-  - DOMAIN-SUFFIX,assets1.xboxlive.com
-  - DOMAIN-SUFFIX,xvcf1.xboxlive.com
-  - DOMAIN-SUFFIX,xvcf2.xboxlive.com
-  - DOMAIN-SUFFIX,assets1.xboxlive.com
-  - DOMAIN-SUFFIX,assets2.xboxlive.com
+  - DOMAINdl-cw-gc.wargaming.net
+  - DOMAIN,dl-wows-gc.wargaming.net
+  - DOMAIN,dl-wows-cdx.wargaming.net
+  - DOMAIN,dl-korabli-s3.lesta.ru
+  - DOMAIN,assets2.xboxlive.com
+  - DOMAIN,assets1.xboxlive.com
+  - DOMAIN,xvcf1.xboxlive.com
+  - DOMAIN,xvcf2.xboxlive.com
+  - DOMAIN,assets1.xboxlive.com
+  - DOMAIN,assets2.xboxlive.com
   - DOMAIN-SUFFIX,wows-coral.com
-  - DOMAIN-SUFFIX,dl-korabli-s3.lesta.ru
   - DOMAIN-SUFFIX,wows-numbers.com
   - DOMAIN-SUFFIX,shinoaki.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,lastwargame.com
-  - DOMAIN-SUFFIX,assets1.xboxlive.cn
-  - DOMAIN-SUFFIX,assets2.xboxlive.cn
-  - DOMAIN-SUFFIX,d1.xboxlive.cn
-  - DOMAIN-SUFFIX,d2.xboxlive.cn
-  - DOMAIN-SUFFIX,dlassets.xboxlive.cn
-  - DOMAIN-SUFFIX,dlassets2.xboxlive.cn	
-
-  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+  - DOMAIN,assets1.xboxlive.cn
+  - DOMAIN,assets2.xboxlive.cn
+  - DOMAIN,d1.xboxlive.cn
+  - DOMAIN,d2.xboxlive.cn
+  - DOMAIN,dlassets.xboxlive.cn
+  - DOMAIN,dlassets2.xboxlive.cn	
+  - DOMAIN,dl.delivery.mp.microsoft.com
+  - DOMAIN,tlu.dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,capoonetwork.com
   - IP-CIDR,43.155.60.0/24
