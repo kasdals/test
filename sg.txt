@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN,wt-replays-cdnnow.cdn.gaijin.net
   - DOMAIN-SUFFIX,wargaming.net
   - DOMAIN-SUFFIX,worldofwarships.eu
   - DOMAIN-SUFFIX,worldofwarships.asia
