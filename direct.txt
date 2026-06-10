@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,lds.lesta.ru
   - DOMAIN-SUFFIX,dogfight360.com
+  - DOMAIN,static-lstuscs.lesta.ru
   - DOMAIN-SUFFIX,gaijin.net
   - DOMAIN-SUFFIX,warthunder.com
   - DOMAIN,origin-a.akamaihd.net
