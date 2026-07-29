@@ -3,7 +3,6 @@ payload:
   - DOMAIN,wt-replays-cdnnow.cdn.gaijin.net
   - DOMAIN-SUFFIX,proships.ru
   - DOMAIN-SUFFIX,proships.su
-  - DOMAIN,wt-replays-cdnnow.cdn.gaijin.net
   - DOMAIN-SUFFIX,wargaming.net
   - DOMAIN-SUFFIX,worldofwarships.eu
   - DOMAIN-SUFFIX,worldofwarships.asia
