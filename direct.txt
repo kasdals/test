@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,lds.lesta.ru
+  - DOMAIN-SUFFIX,fireduocc.com
   - DOMAIN-SUFFIX,dogfight360.com
   - DOMAIN,static-lstuscs.lesta.ru
   - DOMAIN-SUFFIX,gaijin.net
