@@ -1,5 +1,8 @@
 payload:
   - DOMAIN,lds.lesta.ru
+  - DOMAIN,api.worldofwarships.eu
+  - DOMAIN,vortex.korabli.su
+  - DOMAIN,api.worldofwarships.asia
   - DOMAIN-SUFFIX,dogfight360.com
   - DOMAIN,static-lstuscs.lesta.ru
   - DOMAIN-SUFFIX,gaijin.net
