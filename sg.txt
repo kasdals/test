@@ -4,8 +4,6 @@ payload:
   - DOMAIN-SUFFIX,proships.ru
   - DOMAIN-SUFFIX,proships.su
   - DOMAIN-SUFFIX,wargaming.net
-  - DOMAIN-SUFFIX,worldofwarships.eu
-  - DOMAIN-SUFFIX,worldofwarships.asia
   - DOMAIN-SUFFIX,korabli.su
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,twitch.tv
