@@ -12,5 +12,6 @@ payload:
   - DOMAIN-SUFFIX,lesta.ru
   - DOMAIN-SUFFIX,ouonetwork.com
   - DOMAIN-SUFFIX,oochat.space
+  - DOMAIN-SUFFIX,steamserver.net
   - IP-CIDR,92.223.0.0/16
 
