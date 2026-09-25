@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,codebuddy.ai
+  - DOMAIN-SUFFIX,nat.fzc0.cn
   - DOMAIN-SUFFIX,polanyidong.icu
   - DOMAIN,lds.lesta.ru
   - DOMAIN,api.worldofwarships.eu
