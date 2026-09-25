@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN,wiki.warthunder.com
   - DOMAIN,wt-replays-cdnnow.cdn.gaijin.net
   - DOMAIN-SUFFIX,proships.ru
   - DOMAIN-SUFFIX,proships.su
