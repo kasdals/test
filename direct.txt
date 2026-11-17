@@ -3,6 +3,9 @@ payload:
   - DOMAIN,vortex.korabli.su
   - DOMAIN,api.worldofwarships.asia
 
+
+  - DOMAIN,10jqka.com.cn
+
   - DOMAIN-SUFFIX,codebuddy.ai
   - DOMAIN-SUFFIX,nat.fzc0.cn
   - DOMAIN-SUFFIX,polanyidong.icu
