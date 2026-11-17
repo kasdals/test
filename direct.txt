@@ -4,7 +4,7 @@ payload:
   - DOMAIN,api.worldofwarships.asia
 
 
-  - DOMAIN,10jqka.com.cn
+  - DOMAIN-SUFFIX,10jqka.com.cn
 
   - DOMAIN-SUFFIX,codebuddy.ai
   - DOMAIN-SUFFIX,nat.fzc0.cn
